@@ -960,36 +960,4 @@ These should be treated as future extensions unless explicitly implemented in th
 
 ---
 
-# 🚀 Vision
-
-CareerX AI aims to move student career guidance from:
-
-```text
-Generic Career Advice
-```
-
-to:
-
-```text
-Personalized
-+
-Evidence-Aware
-+
-Explainable
-+
-Actionable
-+
-Continuously Updated
-Career Intelligence
-```
-
-Instead of asking only:
-
-> **"Which career should I choose?"**
-
-CareerX AI helps answer:
-
-> **"Which career matches my current profile, why does it match, what am I missing, how ready am I, and what should I do next?"**
-
----
 
