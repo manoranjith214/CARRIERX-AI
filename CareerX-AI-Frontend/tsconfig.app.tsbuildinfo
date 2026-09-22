@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/Icon.tsx","./src/components/UI.tsx","./src/data/mockData.ts","./src/layouts/AppShell.tsx","./src/pages/AppPages.tsx","./src/pages/Public.tsx","./src/pages/RolePages.tsx","./src/services/api.ts","./src/services/mockApi.ts"],"errors":true,"version":"5.8.3"}
